@@ -1,0 +1,11 @@
+<script>
+    let date = new Date();
+    let month  = date.getMonth() + 1;
+    let day = date.getDate();
+    let year = date.getFullYear();
+
+    month = month < 10 ? '0' + month : month;
+    day = day < 10 ? '0' + day : day;
+
+    console.log(`${month}-${day}-${year}, ${month}/${day}/${year} or ${day}-${month}-${year}, ${day}/${month}/${year}`);
+</script>
