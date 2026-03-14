@@ -95,7 +95,7 @@ This is a personal learning repo, but feedback is always welcome! If you spot so
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/OthusitseGaorutwe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/othusitse-donald-gaorutwe-4512b4180/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/OthusitseGaorutwe)
 
 </div>
