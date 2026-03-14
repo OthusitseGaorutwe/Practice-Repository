@@ -51,7 +51,7 @@ Hey, I'm **Othusitse Gaorutwe** — a passionate developer on a mission to maste
 ├── 📂 linux/               # Shell scripting, permissions, server setup
 ├── 📂 apache/              # Virtual hosts, .htaccess, configuration
 ├── 📂 mysql/               # SQL queries, schema design, exercises
-├── 📂 php/                 # PHP fundamentals, forms, sessions, PDO
+├── 📂 php/                 # PHP fundamentals, forms, sessions, PDO, exercises
 ├── 📂 projects/            # Full LAMP projects combining all layers
 └── 📂 challenges/          # Coding exercises and mini-challenges
 ```
@@ -82,25 +82,6 @@ Hey, I'm **Othusitse Gaorutwe** — a passionate developer on a mission to maste
 
 ---
 
-## 🛠️ Getting Started
-
-To run any project in this repository locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/lamp-stack-journey.git
-
-# Navigate into a project folder
-cd lamp-stack-journey/projects/your-project
-
-# Make sure you have a local LAMP environment running
-# Recommended: XAMPP, WAMP, or Laravel Herd
-```
-
-> 💡 **Tip:** [XAMPP](https://www.apachefriends.org/) is the easiest way to get a local LAMP environment up and running on any OS.
-
----
-
 ## 🤝 Contributing & Feedback
 
 This is a personal learning repo, but feedback is always welcome! If you spot something that could be improved or have suggestions:
@@ -115,8 +96,8 @@ This is a personal learning repo, but feedback is always welcome! If you spot so
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/OthusitseGaorutwe)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/OthusitseGaorutwe)
 
 </div>
 
