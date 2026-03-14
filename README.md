@@ -53,7 +53,6 @@ Hey, I'm **Othusitse Gaorutwe** — a passionate developer on a mission to maste
 ├── 📂 mysql/               # SQL queries, schema design, exercises
 ├── 📂 php/                 # PHP fundamentals, forms, sessions, PDO, exercises
 ├── 📂 projects/            # Full LAMP projects combining all layers
-└── 📂 challenges/          # Coding exercises and mini-challenges
 ```
 
 ---
@@ -63,7 +62,7 @@ Hey, I'm **Othusitse Gaorutwe** — a passionate developer on a mission to maste
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | 🔐 User Auth System | Register, login, sessions with hashed passwords | PHP + MySQL | 🔄 In Progress |
-| 📝 Blog Platform | CRUD blog with admin panel | Full LAMP | 🔄 In Progress |
+| 📝 Blog Platform | CRUD blog with admin panel | Full LAMP | 📋 Planned |
 | 📊 Inventory Tracker | Simple stock management app | Full LAMP | 📋 Planned |
 
 > More projects will be added as my journey progresses!
