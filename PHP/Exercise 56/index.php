@@ -1,15 +1,15 @@
 <?php
-    $px = 1;
-    $py = 1;
+    $px = 2;
+    $py = 4;
 
-    $qx = 1;
-    $qy = 1;
+    $qx = 3;
+    $qy = 6;
 
-    $rx = 2;
-    $ry = 3;
+    $rx = 3;
+    $ry = 1;
 
-    $sx = 2;
-    $sy = 1;
+    $sx = 5;
+    $sy = 5;
 
     $pq_gradient = (($qy - $py) / ($qx - $px));
     $rs_gradient = (($sy - $ry) / ($sx - $rx));
